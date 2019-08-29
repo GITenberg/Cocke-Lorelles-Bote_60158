@@ -1,0 +1,44 @@
+_repo: Cocke-Lorelles-Bote_60158
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Edmond, John Philip
+    alias: Edmond, J. P. (John Philip)
+    birthdate: 1850
+    deathdate: 1906
+    gutenberg_agent_id: '50820'
+    url: http://www.gutenberg.org/2009/agents/50820
+  other_contributor:
+    agent_name: Worde, Wynkyn de
+    aliases:
+    - Wynkyn de Worde
+    - De Worde, Wynkyn
+    deathdate: 1534
+    gutenberg_agent_id: '35852'
+    url: http://www.gutenberg.org/2009/agents/35852
+    wikipedia: https://en.wikipedia.org/wiki/Wynkyn_de_Worde
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2019-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+- !lcsh 'Satire, English -- Early works to 1800'
+- GITenberg
+title: Cocke Lorelles Bote
+url: http://www.gutenberg.org/ebooks/60158
