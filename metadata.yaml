@@ -1,5 +1,5 @@
 _repo: Cocke-Lorelles-Bote_60158
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Edmond, John Philip
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '35852'
     url: http://www.gutenberg.org/2009/agents/35852
     wikipedia: https://en.wikipedia.org/wiki/Wynkyn_de_Worde
+covers:
+- cover_type: archival
+  image_path: 60158-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -27,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60158#Cocke-Lorelles-Bote
 gutenberg_issued: '2019-08-24'
 gutenberg_type: Text
 identifiers:
